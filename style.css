@@ -1,0 +1,22 @@
+a {text-decoration: none;}
+
+
+  .button {
+    padding: 3px 20px;
+    border-radius: 6px;
+  border: none;
+  outline: none;
+  appearance: none;
+  -webkit-appearance: none;
+    background-color: black;
+  transition-duration: 0.4s;
+  color: white;
+  font-size: 15px;}
+
+
+.button:hover {
+  background-color: #494949; /* Green */
+  color: rgb(253, 252, 252);}
+
+   body {font-family: Arial, Helvetica, sans-serif;}
+    body {margin:0; padding:0;}
